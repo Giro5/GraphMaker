@@ -1,0 +1,10 @@
+C:\Users\Giro\source\repos\GraphMaker\GraphMaker\bin\Debug\GraphMaker.exe.config
+C:\Users\Giro\source\repos\GraphMaker\GraphMaker\bin\Debug\GraphMaker.exe
+C:\Users\Giro\source\repos\GraphMaker\GraphMaker\bin\Debug\GraphMaker.pdb
+C:\Users\Giro\source\repos\GraphMaker\GraphMaker\obj\Debug\GraphMaker.csprojAssemblyReference.cache
+C:\Users\Giro\source\repos\GraphMaker\GraphMaker\obj\Debug\GraphMaker.Form1.resources
+C:\Users\Giro\source\repos\GraphMaker\GraphMaker\obj\Debug\GraphMaker.Properties.Resources.resources
+C:\Users\Giro\source\repos\GraphMaker\GraphMaker\obj\Debug\GraphMaker.csproj.GenerateResource.cache
+C:\Users\Giro\source\repos\GraphMaker\GraphMaker\obj\Debug\GraphMaker.csproj.CoreCompileInputs.cache
+C:\Users\Giro\source\repos\GraphMaker\GraphMaker\obj\Debug\GraphMaker.exe
+C:\Users\Giro\source\repos\GraphMaker\GraphMaker\obj\Debug\GraphMaker.pdb
