@@ -35,8 +35,6 @@
             this.YEqLbl = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.BuildBtn = new System.Windows.Forms.Button();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.AxisXLbl = new System.Windows.Forms.Label();
             this.XMin = new System.Windows.Forms.TextBox();
             this.Semicolon1 = new System.Windows.Forms.Label();
@@ -49,7 +47,6 @@
             this.AxisYLbl = new System.Windows.Forms.Label();
             this.AutoY = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.GraphicChart)).BeginInit();
-            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // GraphicChart
@@ -114,22 +111,6 @@
             this.BuildBtn.Text = "Build";
             this.BuildBtn.UseVisualStyleBackColor = true;
             this.BuildBtn.Click += new System.EventHandler(this.BuildBtn_Click);
-            // 
-            // menuStrip1
-            // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.fileToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1017, 24);
-            this.menuStrip1.TabIndex = 4;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
-            // fileToolStripMenuItem
-            // 
-            this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
-            this.fileToolStripMenuItem.Text = "File";
             // 
             // AxisXLbl
             // 
@@ -261,17 +242,13 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.YEqLbl);
             this.Controls.Add(this.GraphicChart);
-            this.Controls.Add(this.menuStrip1);
             this.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.MainMenuStrip = this.menuStrip1;
             this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "Form1";
             this.ShowIcon = false;
             this.Text = "GraphMaker";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.GraphicChart)).EndInit();
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -283,8 +260,6 @@
         private System.Windows.Forms.Label YEqLbl;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button BuildBtn;
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
         private System.Windows.Forms.Label AxisXLbl;
         private System.Windows.Forms.TextBox XMin;
         private System.Windows.Forms.Label Semicolon1;
